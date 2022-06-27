@@ -1,0 +1,41 @@
+
+.aa{
+  color : green;
+}
+body{
+  background-color: #DAEAF1;
+}
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+  width: 10%;
+}
+.lol{
+  background: #C3BA85;
+}
+.start{
+  font-size: 22px;
+
+}
+.top{
+  background-color:#FAC213 ;
+}
+.t{
+  margin-right: 50px;
+  border-top: 50px;
+  font-size: 30px;
+  background-position: right;
+  background-color: #ADCF9F;
+}
+.tab{
+  border: solid;
+  border-color: blue;
+  border-spacing: 10px;
+  
+}
+.table{
+  padding-right: 30px;
+  border-right: 22px;
+}
